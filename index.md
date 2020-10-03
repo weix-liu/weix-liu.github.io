@@ -2,11 +2,6 @@
 This project is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
 Here is the example of our synthetic images. 
 <br>
-<div class=“picture-area”>
-    <div class=“picture” style=“background-image: url(‘https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045866704.jpg’)”></div>
-</div>
-<img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045866704.jpg"  height="200" width="200">
-<img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045867614.jpg"  height="200" width="200">
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045868634.jpg)
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045869597.jpg)
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045870593.jpg)

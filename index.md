@@ -18,7 +18,8 @@ Here is the example of our synthetic images. Statistics of synthetic datasets se
 </div><br>
 
 ## Download (will come soon)
-Google Drive: [Synthetic_dataset](https://weix-liu.github.io/).<br>
+Syn N 10k for NWPU VHR-10, and Syn U 10k for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).<br>
+Google Drive: [Synthetic_datasets](https://weix-liu.github.io/).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>
 

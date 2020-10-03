@@ -1,6 +1,11 @@
 # Remote Sensing Image Aircraft Samples Synthesis
 This project is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
 
+## Synthetic images generation
+<div  align="center">  
+<img src="overview/synthetic generation.jpg" width = "600" height = "300" alt="图片名称" />
+</div>
+
 ## Examples
 Here is the example of our synthetic images. 
 <br>

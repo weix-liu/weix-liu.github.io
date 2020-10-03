@@ -2,13 +2,10 @@
 This project is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
 Here is the example of our synthetic images. 
 <br>
-<img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045868634.jpg" width = "300" height = "200" alt="图片名称" align=center />
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045868634.jpg =100x100)
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045869597.jpg)
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045870593.jpg)
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045872579.jpg)
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045873586.jpg)
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045874592.jpg)
+<div  align="center">    
+<img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045868634.jpg" width = "300" height = "200" alt="图片名称" align=center /><img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045869597.jpg" width = "300" height = "200" alt="图片名称" align=center /><img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045870593.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045872579.jpg" width = "300" height = "200" alt="图片名称" align=center /><img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045873586.jpg" width = "300" height = "200" alt="图片名称" align=center /><img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045874592.jpg" width = "300" height = "200" alt="图片名称" align=center />
+</div>
 <br>
 Full datatset (Syn N 10k and Syn U 10k) [download](https://weix-liu.github.io/).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>

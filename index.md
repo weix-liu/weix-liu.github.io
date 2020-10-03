@@ -4,6 +4,7 @@ This project is for the paper [Can Synthetic Data Improve Object Detection Resul
 ## Synthetic images generation
 <div  align="center">  
 <img src="overview/synthetic generation.jpg" width = "600" height = "300" alt="图片名称" />
+Synthetic image generation by domain randomization. The 3D models are randomly placed on the background image (negative real image). By the use of various rendering factors, the system can generate a large volume of varied labeled data.
 </div>
 
 ## Examples

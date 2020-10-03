@@ -1,7 +1,40 @@
+.picture-area {
+
+    width: 250px;
+
+    height: 300px;
+
+    margin: 1em auto 1em auto;
+
+    position: relative;
+
+}
+.picture-area .picture {
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    background-repeat: no-repeat;
+
+    background-position: center 36%;
+
+    background-size: cover;
+
+}
 # Remote Sensing Image Aircraft Samples Synthesis
 This project is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
 Here is the example of our synthetic images. 
 <br>
+<div class=“picture-area”>
+    <div class=“picture” style=“background-image: url(‘https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045866704.jpg’)”></div>
+</div>
 <img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045866704.jpg"  height="200" width="200">
 <img src="https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045867614.jpg"  height="200" width="200">
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045868634.jpg)

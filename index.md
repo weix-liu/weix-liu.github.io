@@ -1,37 +1,13 @@
-## Welcome to Weixing Liu Pages
+# Remote Sensing Image Aircraft Samples Synthesis
+This page is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
+Here is the example of our synthetic images. Full datatset (Syn N 10k and Syn U 10k) also see [project](https://weix-liu.github.io/). <br>
+<br>
+<div align=center><img src="examples/1573045866704.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045867614.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045868634.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045869597.jpg" width="200" height="200" alt="synthetic image"/></div>
+<div align=center><img src="examples/1573045870593.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045872579.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045873586.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045874592.jpg" width="200" height="200" alt="synthetic image"/></div>
+<div align=center><img src="examples/1573045875580.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045879585.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045883582.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045886592.jpg" width="200" height="200" alt="synthetic image"/></div>
+<br>
+Weixing Liu, Jun Liu, Bin Luo<br>
+LIESMARS, Wuhan University<br>
 
-You can use the [editor on GitHub](https://github.com/weix-liu/weix-liu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weix-liu/weix-liu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Citation
+If you use this dataset for your research, please cite our paper.

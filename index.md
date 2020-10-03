@@ -17,10 +17,11 @@ Here is the example of our synthetic images. Statistics of synthetic datasets se
 <img src="/examples/1573045869597.jpg" width = "200" height = "200" alt="图片名称"  /><img src="/examples/1573045870593.jpg" width = "200" height = "200" alt="图片名称" /><img src="examples/1573045872579.jpg" width = "200" height = "200" alt="图片名称"/>
 </div><br>
 
-## Download (Tbd)
-[Synthetic_dataset](https://weix-liu.github.io/).<br>
+## Download (will come soon)
+Google Drive: [Synthetic_dataset](https://weix-liu.github.io/).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>
 
 ## Citation
-If you use this dataset for your research, please cite our paper.
+If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/2006.05015).<br>
+

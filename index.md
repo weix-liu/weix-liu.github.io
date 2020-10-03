@@ -2,7 +2,7 @@
 This project is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
 Here is the example of our synthetic images. 
 <br>
-![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045866704.jpg 200x200)
+![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045866704.jpg =200x200)
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045867614.jpg)
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045868634.jpg)
 ![](https://github.com/weix-liu/weix-liu.github.io/blob/main/examples/1573045869597.jpg)

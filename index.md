@@ -8,7 +8,7 @@ Synthetic image generation by domain randomization. The 3D models are randomly p
 </div>
 
 ## Examples
-Here is the example of our synthetic images. 
+Here is the example of our synthetic images. Statistics of synthetic datasets see paper.
 <br>
 <div  align="center">    
 <img src="examples/1573045866704.jpg" width = "200" height = "200" alt="图片名称" /><img src="examples/1573045867614.jpg" width = "200" height = "200" alt="图片名称" /><img src="/examples/1573045868634.jpg" width = "200" height = "200" alt="图片名称" r />

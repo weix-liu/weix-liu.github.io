@@ -7,7 +7,7 @@ Here is the example of our synthetic images. Full datatset (Syn N 10k and Syn U 
 <div align=center><img src="examples/1573045875580.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045879585.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045883582.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1573045886592.jpg" width="200" height="200" alt="synthetic image"/></div>
 <br>
 Weixing Liu, Jun Liu, Bin Luo<br>
-LIESMARS, Wuhan University
+LIESMARS, Wuhan University<br>
 ## Citation
 If you use this dataset for your research, please cite our paper.
 

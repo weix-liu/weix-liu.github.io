@@ -18,7 +18,7 @@ Here is the example of our synthetic images. Statistics of synthetic datasets se
 </div><br>
 
 ## Download (will come soon)
-Syn N 10k for NWPU VHR-10, and Syn U 10k for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).<br>
+Syn N 10k is for NWPU VHR-10, and Syn U 10k is for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).<br>
 Google Drive: [Synthetic_datasets](https://weix-liu.github.io/).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>
@@ -27,4 +27,4 @@ LIESMARS, Wuhan University<br>
 If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/2006.05015).<br>
 
 ## Acknowledgments
-3D CAD data from [ShapeNet](https://www.shapenet.org/). Background images from [NWPU VHR-10](https://ieeexplore.ieee.org/document/7560644) and [UCAS-AOD](https://ieeexplore.ieee.org/abstract/document/7351502).
+We collect 3D CAD data from [ShapeNet](https://www.shapenet.org/), background images from [NWPU VHR-10](https://ieeexplore.ieee.org/document/7560644) and [UCAS-AOD](https://ieeexplore.ieee.org/abstract/document/7351502).

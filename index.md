@@ -26,4 +26,4 @@ LIESMARS, Wuhan University<br>
 If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/2006.05015).<br>
 
 ## Acknowledgments
-3D CAD data from [ShapeNet](https://www.shapenet.org/).
+3D CAD data from [ShapeNet](https://www.shapenet.org/). Background images from [NWPU VHR-10](https://ieeexplore.ieee.org/document/7560644) and [UCAS-AOD](https://ieeexplore.ieee.org/abstract/document/7351502)

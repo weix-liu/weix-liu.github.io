@@ -19,7 +19,8 @@ Here is the example of our synthetic images. Statistics of synthetic datasets se
 
 ## Download (will come soon)
 Syn N 10k is for NWPU VHR-10, and Syn U 10k is for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).
-</br>
+<br>
+<br>
 Google Drive: [Synthetic_datasets](https://weix-liu.github.io/).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>

@@ -21,7 +21,9 @@ Here is the example of our synthetic images. Statistics of synthetic datasets se
 Syn N 10k is for NWPU VHR-10, and Syn U 10k is for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).
 <br>
 <br>
-Google Drive: [Synthetic_datasets](https://weix-liu.github.io/).<br>
+Google Drive:<br>
+[Synthetic_N10k](https://drive.google.com/drive/folders/1X7W7dc7dhqpHmcWItIx9StQ7f1oTOcrA?usp=sharing).<br>
+[Synthetic_U10k](https://drive.google.com/drive/folders/1dgxlk5-NQpn4pUIcdVgORY-wQvmvtSz6?usp=sharing).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>
 

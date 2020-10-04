@@ -4,7 +4,7 @@ This project is for the paper [Can Synthetic Data Improve Object Detection Resul
 ## Overview
 <div  align="center">  
 <img src="overview/synthetic generation.jpg" width = "600" height = "300" alt="图片名称" /><br>
-Synthetic image generation by domain randomization. The 3D models are randomly placed on the background image (negative real image). By the use of various rendering factors, the system can generate a large volume of varied labeled data.
+<font size=2 >Synthetic image generation by domain randomization. The 3D models are randomly placed on the background image (negative real image). By the use of various rendering factors, the system can generate a large volume of varied labeled data.</font>
 </div>
 
 ## Examples
@@ -18,7 +18,8 @@ Here is the example of our synthetic images. Statistics of synthetic datasets se
 </div><br>
 
 ## Download (will come soon)
-Syn N 10k is for NWPU VHR-10, and Syn U 10k is for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).<br>
+Syn N 10k is for NWPU VHR-10, and Syn U 10k is for UCAS-AOD. Similar to PASCAL VOC style, every synthetic image (.jpg) has a corresponding annotation (.xml).
+<br>
 Google Drive: [Synthetic_datasets](https://weix-liu.github.io/).<br>
 Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>

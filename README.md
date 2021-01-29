@@ -9,7 +9,7 @@ Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>
 
 ## Citation
-If you use this dataset for your research, please cite our paper.
+If you use this dataset for your research, please cite our paper.<br>
 @ARTICLE{9337932,<br>
 author={W. {Liu} and B. {Luo} and J. {Liu}},<br>
 journal={IEEE Geoscience and Remote Sensing Letters}, <br>

@@ -1,5 +1,5 @@
 # Remote Sensing Image Aircraft Samples Synthesis
-This project is for the paper [Can Synthetic Data Improve Object Detection Results for Remote Sensing Images?](https://arxiv.org/abs/2006.05015).<br>
+This project is for the paper [Synthetic Data Augmentation Using Multiscale Attention CycleGAN for Aircraft Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/9337932).<br>
 
 ## Overview
 <div  align="center">  
@@ -8,7 +8,7 @@ This project is for the paper [Can Synthetic Data Improve Object Detection Resul
 </div>
 
 ## Examples
-Here is the example of our synthetic images. Statistics of synthetic datasets see paper.
+Here are examples of our synthetic images. Statistics of synthetic datasets see paper.
 <br>
 <div  align="center">    
 <img src="examples/1573045866704.jpg" width = "200" height = "200" alt="" /><img src="examples/1573045867614.jpg" width = "200" height = "200" alt="" /><img src="/examples/1573045868634.jpg" width = "200" height = "200" alt="" />
@@ -28,7 +28,7 @@ Weixing Liu, Jun Liu, Bin Luo<br>
 LIESMARS, Wuhan University<br>
 
 ## Citation
-If you use this dataset for your research, please cite our [paper](https://arxiv.org/abs/2006.05015).<br>
+If you use this dataset for your research, please cite our [paper](https://ieeexplore.ieee.org/document/9337932).<br>
 
 ## Acknowledgments
 We collect 3D CAD data from [ShapeNet](https://www.shapenet.org/), background images from [NWPU VHR-10](https://ieeexplore.ieee.org/document/7560644) and [UCAS-AOD](https://ieeexplore.ieee.org/abstract/document/7351502).

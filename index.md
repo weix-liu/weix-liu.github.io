@@ -1,3 +1,7 @@
+# Remote Sensing Image Vehicle Samples Synthesis
+Our synthetic vehicle dataset GTAV10k and codes [DSCR](https://github.com/weix-liu/DSCR.git) are available.<br>
+This project is for the paper "Unsupervised Domain Adaptation for Remote Sensing Vehicle Detection using Domain-specific Channel Recalibration".
+
 # Remote Sensing Image Aircraft Samples Synthesis
 This project is for the paper [Synthetic Data Augmentation Using Multiscale Attention CycleGAN for Aircraft Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/9337932).<br>
 

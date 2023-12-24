@@ -4,6 +4,16 @@ Our synthetic vehicle datset GTAV10k and code [DSCR](https://github.com/weix-liu
 <div align=center><img src="examples/1617455484.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1617803837.jpg" width="200" height="200" alt="synthetic image"/><img src="examples/1617712770.jpg" width="200" height="200" alt="synthetic image"/></div>
 <br>
 
+## Citation
+If you use this dataset for your research, please cite our paper.<br>
+@article{liu2023unsupervised,<br>
+  title={Unsupervised Domain Adaptation for Remote Sensing Vehicle Detection using Domain-specific Channel Recalibration},<br>
+  author={Liu, Weixing and Liu, Jun and Luo, Bin},<br>
+  journal={IEEE Geoscience and Remote Sensing Letters},<br>
+  year={2023},<br>
+  publisher={IEEE}<br>
+}
+
 # Remote Sensing Image Aircraft Samples Synthesis
 This page is for the paper [Synthetic Data Augmentation using Multi-scale Attention CycleGAN for Aircraft Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/9337932).<br>
 Here are examples of our synthetic images. Full datatset (Syn N 10k and Syn U 10k) also see [project](https://weix-liu.github.io/). <br>

@@ -14,7 +14,7 @@ If you use this dataset for your research, please cite our paper.<br>
   publisher={IEEE}<br>
 }
 
-# Remote Sensing Image Aircraft Samples Synthesis
+# Synthetic Data Augmentation Using Multiscale Attention CycleGAN for Aircraft Detection in Remote Sensing Images
 This page is for the paper [Synthetic Data Augmentation using Multi-scale Attention CycleGAN for Aircraft Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/9337932).<br>
 Here are examples of our synthetic images. Full datatset (Syn N 10k and Syn U 10k) also see [project](https://weix-liu.github.io/). <br>
 <br>

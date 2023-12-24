@@ -26,10 +26,12 @@ LIESMARS, Wuhan University<br>
 
 ## Citation
 If you use this dataset for your research, please cite our paper.<br>
-@ARTICLE{9337932,<br>
-author={W. Liu and B. Luo and J. Liu},<br>
-journal={IEEE Geoscience and Remote Sensing Letters}, <br>
-title={Synthetic Data Augmentation Using Multiscale Attention CycleGAN for Aircraft Detection in Remote Sensing Images},<br>
-year={2021},<br>
-doi={10.1109/LGRS.2021.3052017}}
-
+@article{liu2021synthetic,<br>
+  title={Synthetic data augmentation using multiscale attention CycleGAN for aircraft detection in remote sensing images},<br>
+  author={Liu, Weixing and Luo, Bin and Liu, Jun},<br>
+  journal={IEEE Geoscience and Remote Sensing Letters},<br>
+  volume={19},<br>
+  pages={1--5},<br>
+  year={2021},<br>
+  publisher={IEEE}<br>
+}

@@ -1,4 +1,4 @@
-# 1. Source-free Domain Adaptive Object Detection in Remote Sensing Images
+# 1. Multi-level Domain Perturbation for Source-free Object Detection in Remote Sensing Images
 Our SFOD code [AFSP](https://github.com/weix-liu/AFSP.git) are available.
 <br>
 <div align=center><img src="examples/main_framework.png" width="600" height="300" alt="sfod image"/></div>
@@ -8,7 +8,7 @@ Our SFOD code [AFSP](https://github.com/weix-liu/AFSP.git) are available.
 This work is submitted to GSIS:<br>
 Liu W, Liu J, Su X, Nie H, Luo B. Multi-level Domain Perturbation for Source-free Object Detection in Remote Sensing Images. Geo-spatial Information Science, 2024.<br>
 <br>
-The preprint version:<br>
+The arXiv preprint version:<br>
 @article{liu2024source,<br>
   title={Source-free Domain Adaptive Object Detection in Remote Sensing Images},<br>
   author={Liu, Weixing and Liu, Jun and Su, Xin and Nie, Han and Luo, Bin},<br>

@@ -5,12 +5,17 @@ Our SFOD code [AFSP](https://github.com/weix-liu/AFSP.git) are available.
 <br>
 
 ## Citation
+This work is submitted to GSIS:<br>
+Liu W, Liu J, Su X, Nie H, Luo B. Multi-level Domain Perturbation for Source-free Object Detection in Remote Sensing Images. Geo-spatial Information Science, 2024.<br>
+<br>
+The preprint version:<br>
 @article{liu2024source,<br>
   title={Source-free Domain Adaptive Object Detection in Remote Sensing Images},<br>
   author={Liu, Weixing and Liu, Jun and Su, Xin and Nie, Han and Luo, Bin},<br>
   journal={arXiv preprint arXiv:2401.17916},<br>
   year={2024}<br>
 }<br>
+
 
 # 2. Unsupervised Domain Adaptation for Remote Sensing Vehicle Detection using Domain-specific Channel Recalibration
 Our synthetic vehicle datset GTAV10k and code [DSCR](https://github.com/weix-liu/DSCR.git) are available.

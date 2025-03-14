@@ -24,8 +24,11 @@ I graduated from School of Remote Sensing and Information Engineering, Wuhan Uni
 My research focuses on remote sensing image processing and computer vision, with particular interests in domain adaptation, object detection, and image segmentation.
 
 # 📝 Publications
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">domain perturbation</div><img src='images/afsp.png' alt="sym" width="300"></div></div>
+<div class='paper-box-text' markdown="1">
 [Multi-level domain perturbation for source-free object detection in remote sensing images](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2378920), Weixing Liu, Jun Liu, Xin Su, Han Nie, and Bin Luo, Geo-Spatial Information Science 2024 \| [\[arXiv\]](https://arxiv.org/abs/2401.17916). [![GitHub](https://img.shields.io/badge/GitHub-Visit%20GitHub-blue?logo=github)](https://github.com/weix-liu/AFSP)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">synthetic vehicle dataset</div><img src='images/vehicle.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">

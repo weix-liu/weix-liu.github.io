@@ -23,6 +23,14 @@ I graduated from School of Remote Sensing and Information Engineering, Wuhan Uni
 
 My research focuses on remote sensing image processing and computer vision, with particular interests in domain adaptation, object detection, and image segmentation.
 
+# 📝 Upcoming Work
+
+We are currently working on several new research projects, and the code will be made publicly available upon the acceptance and publication of the paper. Please check back at this URL for updates:
+
+[remote sensing cloud detection][![GitHub](https://img.shields.io/badge/GitHub-Code%20Coming%20Soon-blue?logo=github)](https://github.com/weix-liu/SCTNet)
+
+If you have any questions or need further information, feel free to contact me at [weix_liu@whu.edu.cn](mailto:weix_liu@whu.edu.cn).
+
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">domain perturbation</div><img src='images/afsp.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,13 +50,7 @@ My research focuses on remote sensing image processing and computer vision, with
 </div>
 </div>
 
-### 📝 Upcoming Work / Code Availability
 
-We are currently working on several new research projects, and the code will be made publicly available upon the acceptance and publication of the paper. Please check back at this URL for updates:
-
-[remote sensing cloud detection][![GitHub](https://img.shields.io/badge/GitHub-Code%20Coming%20Soon-blue?logo=github)](https://github.com/weix-liu/SCTNet)
-
-If you have any questions or need further information, feel free to contact me at [weix_liu@whu.edu.cn](mailto:weix_liu@whu.edu.cn).
 
 
 
